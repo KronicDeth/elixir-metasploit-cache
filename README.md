@@ -1,5 +1,7 @@
 # Metasploit.Cache
 
+[![Build Status](https://travis-ci.org/KronicDeth/elixir-metasploit-cache.svg?branch=master)](https://travis-ci.org/KronicDeth/elixir-metasploit-cache)
+
 To start your new Phoenix application:
 
 1. Install dependencies with `mix deps.get`
