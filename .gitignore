@@ -1,3 +1,6 @@
+# JetBrains IDE
+/.idea
+
 # Mix artifacts
 /_build
 /deps
