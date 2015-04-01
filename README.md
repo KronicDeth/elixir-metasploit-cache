@@ -1,6 +1,7 @@
 # Metasploit.Cache
 
 [![Build Status](https://travis-ci.org/KronicDeth/elixir-metasploit-cache.svg?branch=master)](https://travis-ci.org/KronicDeth/elixir-metasploit-cache)
+[![Coverage Status](https://coveralls.io/repos/KronicDeth/elixir-metasploit-cache/badge.svg)](https://coveralls.io/r/KronicDeth/elixir-metasploit-cache)
 
 To start your new Phoenix application:
 
